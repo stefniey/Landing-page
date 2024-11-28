@@ -23,7 +23,7 @@ Manage Landing Page is a static landing page designed to showcase modern design 
 ## Project Structure
 Here's an overview of the folder structure:
 ```
- Manage Landing Page/
+ Manage/
 ├── src/
 │   ├── components/
 │   ├── assets/
@@ -39,8 +39,8 @@ Here's an overview of the folder structure:
 
 - **Clone the repository**:
   ```bash
-  git clone https://github.com/stefniey/ Manage Landing Pagegit
-  cd  Manage Landing Page
+  git clone https://github.com/stefniey/ Manage.git
+  cd  Manage
   ```
 
 - **Install dependencies**:
