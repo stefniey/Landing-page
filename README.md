@@ -1,7 +1,7 @@
-# Landing Page
+# Manage Landing Page
 
 ## Overview
-Landing Page is a static landing page designed to showcase modern design principles and user-friendly interfaces. This project focuses on creating an aesthetically pleasing and responsive web page using React and Tailwind CSS, demonstrating how a landing page can effectively communicate a brand’s message and capture user interest.
+Manage Landing Page is a static landing page designed to showcase modern design principles and user-friendly interfaces. This project focuses on creating an aesthetically pleasing and responsive web page using React and Tailwind CSS, demonstrating how a landing page can effectively communicate a brand’s message and capture user interest.
 
 ## Key Features
 - **Responsive Design**: Optimized for various screen sizes, ensuring a seamless user experience on mobile, tablet, and desktop devices.
@@ -23,7 +23,7 @@ Landing Page is a static landing page designed to showcase modern design princip
 ## Project Structure
 Here's an overview of the folder structure:
 ```
-roompage/
+ Manage Landing Page/
 ├── src/
 │   ├── components/
 │   ├── assets/
@@ -39,8 +39,8 @@ roompage/
 
 - **Clone the repository**:
   ```bash
-  git clone https://github.com/stefniey/landing-page.git
-  cd landing-page
+  git clone https://github.com/stefniey/ Manage Landing Pagegit
+  cd  Manage Landing Page
   ```
 
 - **Install dependencies**:
@@ -53,7 +53,7 @@ roompage/
   npm start
   ```
 
-- **Access the application**: Open [http://localhost:3000](http://localhost:3000) in your browser to view the landing page.
+- **Access the application**: Open [http://localhost:3000](http://localhost:3000) in your browser to view the Manage Landing Page.
 
 ## Features in Detail
 ### 1. Responsive Layout
@@ -64,17 +64,6 @@ roompage/
 
 ### 3. Static Navbar
 - A fixed navigation bar at the top of the page, serving as a visual element.
-
-## Screenshots
-
-- **Hero Section**:
-  ![Hero Section](public/images/hero.jpeg)
-
-- **Features Section**:
-  ![Features Section](public/images/features.jpeg)
-
-- **Footer Section**:
-  ![Footer Section](public/images/footer.jpeg)
 
 ## Contributing
 - **Fork the repository**.
